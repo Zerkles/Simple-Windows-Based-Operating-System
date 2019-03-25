@@ -1,0 +1,11 @@
+CF fa
+WF fa abc
+RF fa 1 2
+DF fa
+CF f2
+WF f2 8
+WF f2 5
+RF f2 0 1 A
+RF f2 1 1 B
+AD A B
+HT

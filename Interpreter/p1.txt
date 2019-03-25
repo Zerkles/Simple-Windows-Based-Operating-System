@@ -1,0 +1,12 @@
+MO A 13
+MO B 7
+MO C B
+PT:
+MO B C
+DI B
+MO A B
+MO C D
+JC PT
+MO [85] A
+MO B [85]
+HT

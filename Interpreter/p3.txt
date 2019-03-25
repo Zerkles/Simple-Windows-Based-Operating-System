@@ -1,0 +1,5 @@
+CP p123 p4 5
+SM p123 hello
+RM [53]
+SM p123 2 [54]
+HT
